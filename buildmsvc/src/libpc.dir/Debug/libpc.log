@@ -1,0 +1,28 @@
+﻿生成启动时间为 2014/1/18 20:49:50。
+     1>项目“C:\Users\Administrator\Desktop\project2\5120309147\project2\buildmsvc\src\libpc.vcxproj”在节点 5 上(Build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“libpc.dir\Debug\libpc.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /I..\../src /Zi /nologo /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"libpc.dir\Debug\\" /Fd"libpc.dir\Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt  /EHsc";"-std=c++11 -g ..\..\src\pc.cpp
+     1>cl : 命令行 warning D9002: 忽略未知选项“/EH;”
+     1>cl : 命令行 warning D9002: 忽略未知选项“/EH-”
+     1>cl : 命令行 warning D9002: 忽略未知选项“/EHt”
+     1>cl : 命令行 warning D9002: 忽略未知选项“/EHd”
+     1>cl : 命令行 warning D9002: 忽略未知选项“/EH=”
+     1>cl : 命令行 warning D9002: 忽略未知选项“/EH+”
+     1>cl : 命令行 warning D9002: 忽略未知选项“/EH+”
+     1>cl : 命令行 warning D9002: 忽略未知选项“/EH1”
+     1>cl : 命令行 warning D9002: 忽略未知选项“/EH1”
+     1>cl : 命令行 warning D9002: 忽略未知选项“-g”
+         pc.cpp
+       Lib:
+         D:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\Lib.exe /OUT:"..\..\buildmsvc\src\Debug\libpc.lib" /NOLOGO libpc.dir\Debug\pc.obj
+         libpc.vcxproj -> C:\Users\Administrator\Desktop\project2\5120309147\project2\buildmsvc\src\..\..\buildmsvc\src\Debug\libpc.lib
+       FinalizeBuildStatus:
+         正在删除文件“libpc.dir\Debug\libpc.unsuccessfulbuild”。
+         正在对“libpc.dir\Debug\libpc.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“C:\Users\Administrator\Desktop\project2\5120309147\project2\buildmsvc\src\libpc.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:02.73
